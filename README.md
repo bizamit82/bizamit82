@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit Tiwari
+- 👋 Hi, I’m Amit Tiwari
 - 👀 I’m interested in application of AI in SAP SuccessFactors technology
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI projects
